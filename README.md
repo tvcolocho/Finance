@@ -1,5 +1,5 @@
 # Finance
-Web App for trading and selling stocks using Python, HTML, and CSS
+Web app for trading and selling stocks using Python, HTML, and CSS
 
 <img width="600" alt="finance" src="https://user-images.githubusercontent.com/107974087/210695256-a244284f-95ff-4fc9-9196-5c428f708952.png">
 
