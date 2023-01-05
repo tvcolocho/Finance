@@ -1,0 +1,13 @@
+{% block title %}
+    Quote
+{% endblock %}
+
+{% block main %}
+    <h1>Quote</h1>
+    <form action="/quote" method="post">
+        <div class="mb-3">
+            <input autocomplete="off" autofocus class="form-control mx-auto w-auto" id="username" name="symbol" placeholder="Symbol" type="text">
+        </div>
+        <button class="form-group btn btn-primary" type="submit">Quote</button>
+    </form>
+{% endblock %}
